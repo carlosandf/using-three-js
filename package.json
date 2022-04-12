@@ -1,0 +1,23 @@
+{
+  "name": "using-three",
+  "version": "1.0.0",
+  "description": "Practicando un poco de Three.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlosandf/using-three-js.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "Three.js"
+  ],
+  "author": "Carlos Florez <carlos.andres.ff2912@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/carlosandf/using-three-js/issues"
+  },
+  "homepage": "https://github.com/carlosandf/using-three-js#readme"
+}

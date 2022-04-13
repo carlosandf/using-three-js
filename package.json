@@ -2,7 +2,7 @@
   "name": "using-three",
   "version": "1.0.0",
   "description": "Practicando un poco de Three.js",
-  "main": "index.js",
+  "main": "./src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
